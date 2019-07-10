@@ -1,0 +1,219 @@
+[
+    {
+        "name":"GLACIUS",
+        "desc":"Fattura congelante, congela persone, animali e cose.",
+        "perc":99,
+        "dhp":7,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":4.9,
+        "smp":0
+    },
+    {
+        "name":"EVERTE STATIM",
+        "desc":"Incantesimo di dispersione: scaglia l'avversario a diversi metri di distanza.",
+        "perc":86.5,
+        "dhp":8,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":5.6,
+        "smp":0
+    },
+    {
+        "name":"MIMBLEWIMBLE",
+        "desc":"Confonde l'avversario facendogli pronunciare male l'incantesimo successivo. Causa perdita di mana.",
+        "perc":77,
+        "dhp":7,
+        "chp":0,
+        "shp":0,
+        "dmp":2,
+        "cmp":6.5,
+        "smp":0
+    },
+    {
+        "name":"EXPULSO",
+        "desc":"Genera una forte scarica elettrica in grado di fare esplodere gli oggetti e di far svenire una persona.",
+        "perc":59.5,
+        "dhp":13,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":10.4,
+        "smp":0
+    },
+    {
+        "name":"EXCELSIOSEMPRA",
+        "desc":"Incantesimo di dispersione: scaglia in aria l'avversario per poi farlo ricadere violentemente.",
+        "perc":56,
+        "dhp":14,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":11.2,
+        "smp":0
+    },{
+        "name":"MALEDIZIONE DELLA FRUSTA",
+        "desc":"Crea una frusta invisibile che colpisce l'avversario. Può causare gravi lesioni interne.",
+        "perc":59.3,
+        "dhp":15,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":12,
+        "smp":0
+    },
+    {
+        "name":"PIERTOTUM LOCOMOTOR",
+        "desc":"Da vita a statue armate che camminano, parlano e attaccano l'avversario.",
+        "perc":51,
+        "dhp":16,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":12.8,
+        "smp":0
+    },
+    {
+        "name":"PIETRIFICUS TOTALUS",
+        "desc":"Pietrifica l'avversario causandone perdita di mana.",
+        "perc":45.5,
+        "dhp":15,
+        "chp":0,
+        "shp":0,
+        "dmp":5,
+        "cmp":15,
+        "smp":0
+    },
+    {
+        "name":"SECTUMSEMPRA",
+        "desc":"maledizione che taglia e lacera varie parti del corpo",
+        "perc":27,
+        "dhp":40,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":32,
+        "smp":0
+    },
+    {
+        "name":"AVADA KEDAVRA",
+        "desc":"L'anatema che uccide.",
+        "perc":26,
+        "dhp":50,
+        "chp":10,
+        "shp":0,
+        "dmp":0,
+        "cmp":30,
+        "smp":0
+    },{
+        "name":"ARDEMONIO",
+        "desc":"Fuoco maledetto inarrestabile, colpisce tutti gli avversari.",
+        "perc":40.5,
+        "dhp":10,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":35,
+        "smp":0
+    },
+    {
+        "name":"EXPELLIARMUS",
+        "desc":"Disarma l'avversario e gli ruba punti mana.",
+        "perc":66,
+        "dhp":0,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":4.9,
+        "smp":7
+    },
+    {
+        "name":"DISMUNDO",
+        "desc":"Ruba mana all'avversario con visioni spaventose.",
+        "perc":39.5,
+        "dhp":0,
+        "chp":0,
+        "shp":0,
+        "dmp":0,
+        "cmp":11.2,
+        "smp":14
+    },
+    {
+        "name":"IMPERIO",
+        "desc":"Maledizione del comando: ruba punti mana e vita all'avversario.",
+        "perc":20,
+        "dhp":0,
+        "chp":15,
+        "shp":25,
+        "dmp":0,
+        "cmp":15,
+        "smp":25
+    },
+    {
+        "name":"ARRESTO MOMENTUM",
+        "desc":"Annulla il movimento di un corpo sottraendo punti mana.",
+        "perc":56,
+        "dhp":0,
+        "chp":0,
+        "shp":0,
+        "dmp":14,
+        "cmp":11.2,
+        "smp":0
+    },{
+        "name":"CONFUNDO",
+        "desc":"Confonde l'avversario facendogli perdere punti mana.",
+        "perc":"47.5",
+        "dhp":0,
+        "chp":0,
+        "shp":0,
+        "dmp":18,
+        "cmp":15,
+        "smp":0
+    },
+    {
+        "name":"FIANTO DURI",
+        "desc":"Respinge gli incantesimi avversari permettendo di recuperare mana.",
+        "perc":77,
+        "dhp":0,
+        "chp":6.5,
+        "shp":0,
+        "dmp":0,
+        "cmp":-9,
+        "smp":0
+    },
+    {
+        "name":"FUOCONDRO",
+        "desc":"Genera calore dalla punta della bacchetta recuperando mana.",
+        "perc":56,
+        "dhp":0,
+        "chp":11.2,
+        "shp":0,
+        "dmp":0,
+        "cmp":-14,
+        "smp":0
+    },
+    {
+        "name":"EMENDO",
+        "desc":"Guarsice la parte del corpo sulla quale la bacchetta è puntata.",
+        "perc":77,
+        "dhp":0,
+        "chp":-9,
+        "shp":0,
+        "dmp":0,
+        "cmp":6.5,
+        "smp":0
+    },
+    {
+        "name":"VULNERA SANENTUR",
+        "desc":"Cura le ferite, anche gravi o inferte da magia oscura.",
+        "perc":34,
+        "dhp":0,
+        "chp":-35,
+        "shp":0,
+        "dmp":0,
+        "cmp":28,
+        "smp":0
+    }
+]
